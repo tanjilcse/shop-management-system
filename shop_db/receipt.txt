@@ -1,0 +1,16 @@
+🧾 ===== INVOICE =====
+
+Customer: syeds hoshi
+Phone: 0864335667
+Payment: Mobile
+Paid: 204750.0
+Due: 0
+
+mobile | Qty:1 | Total:15000.0
+monitor | Qty:1 | Total:150000.0
+pc | Qty:1 | Total:30000.0
+
+Subtotal: 195000.00
+Discount: 0.00
+VAT: 9750.00
+TOTAL: 204750.00
